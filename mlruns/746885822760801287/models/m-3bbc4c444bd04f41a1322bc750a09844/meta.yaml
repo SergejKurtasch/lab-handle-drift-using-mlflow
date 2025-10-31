@@ -1,0 +1,10 @@
+artifact_location: file:///Users/sergej/Library/Mobile%20Documents/com~apple~CloudDocs/DS_AI/module7/week38-MLFlow/lab-handle-drift-using-mlflow/mlruns/746885822760801287/models/m-3bbc4c444bd04f41a1322bc750a09844/artifacts
+creation_timestamp: 1761925329002
+experiment_id: '746885822760801287'
+last_updated_timestamp: 1761925334923
+model_id: m-3bbc4c444bd04f41a1322bc750a09844
+model_type: null
+name: model
+source_run_id: 696c35c14f4b4c48b77a2a1180d05591
+status: 2
+status_message: null

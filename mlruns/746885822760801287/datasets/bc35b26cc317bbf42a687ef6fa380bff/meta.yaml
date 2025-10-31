@@ -1,0 +1,11 @@
+digest: a3fbca02
+name: dataset
+profile: '{"num_rows": 30, "num_elements": 120}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "sepal length (cm)", "required":
+  true}, {"type": "double", "name": "sepal width (cm)", "required": true}, {"type":
+  "double", "name": "petal length (cm)", "required": true}, {"type": "double", "name":
+  "petal width (cm)", "required": true}]}'
+source: '{"tags": {"mlflow.user": "sergej", "mlflow.source.name": "/Users/sergej/Library/Mobile
+  Documents/com~apple~CloudDocs/DS_AI/module7/week38-MLFlow/lab-handle-drift-using-mlflow/iris_drift_detection.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "b7965efb6c9de510d6751f2443efb08ea5cd33be"}}'
+source_type: code

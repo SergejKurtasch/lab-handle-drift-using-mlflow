@@ -1,0 +1,22 @@
+artifact_path: file:///Users/sergej/Library/Mobile%20Documents/com~apple~CloudDocs/DS_AI/module7/week38-MLFlow/lab-handle-drift-using-mlflow/mlruns/746885822760801287/models/m-7cad567485ab4972ab1a67d9c1fc64f7/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.8
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.5.1
+model_id: m-7cad567485ab4972ab1a67d9c1fc64f7
+model_size_bytes: 177444
+model_uuid: m-7cad567485ab4972ab1a67d9c1fc64f7
+prompts: null
+run_id: bea69c75e5914d7a8054ba4b700db1f9
+utc_time_created: '2025-10-29 15:42:26.871630'

@@ -1,0 +1,6 @@
+artifact_location: file:///Users/sergej/Library/Mobile%20Documents/com~apple~CloudDocs/DS_AI/module7/week38-MLFlow/lab-handle-drift-using-mlflow/mlruns/746885822760801287
+creation_time: 1761752540134
+experiment_id: '746885822760801287'
+last_update_time: 1761752540134
+lifecycle_stage: active
+name: Iris_RandomForest_Drift_Detection

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sergej/Library/Mobile%20Documents/com~apple~CloudDocs/DS_AI/module7/week38-MLFlow/lab-handle-drift-using-mlflow/mlruns/746885822760801287/72792dec008e4ffb9d9b2589c27c7174/artifacts
+end_time: 1761924135256
+entry_point_name: ''
+experiment_id: '746885822760801287'
+lifecycle_stage: active
+run_id: 72792dec008e4ffb9d9b2589c27c7174
+run_name: baseline_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761924126620
+status: 3
+tags: []
+user_id: sergej

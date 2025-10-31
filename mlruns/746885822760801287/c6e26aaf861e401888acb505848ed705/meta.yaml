@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sergej/Library/Mobile%20Documents/com~apple~CloudDocs/DS_AI/module7/week38-MLFlow/lab-handle-drift-using-mlflow/mlruns/746885822760801287/c6e26aaf861e401888acb505848ed705/artifacts
+end_time: 1761923048565
+entry_point_name: ''
+experiment_id: '746885822760801287'
+lifecycle_stage: active
+run_id: c6e26aaf861e401888acb505848ed705
+run_name: drift_detection
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761923048543
+status: 3
+tags: []
+user_id: sergej
